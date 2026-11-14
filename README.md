@@ -5,5 +5,5 @@ Design your own universe in this creative space game\! 🚀 Build futuristic spa
 | Name | Role | GitHub | Email |
 |------|------|--------|-------|
 | Chaitanya Gajbhiye | Team Lead / Frontend | [@gajbhiyechaitanya25-star](https://github.com/username1) | chaitanyagajbhiye25@gmail.com |
-| Aditya ghonge | Backend | [@adityaghonge18-dot](https://github.com/username2) | adityaghonge18@gmail.com |
-| Arhan raut | Documentation | [@rautarhan21-star](https://github.com/username3) | arhanraut97@email.com |
+| Aditya Ghonge | Backend | [@adityaghonge18-dot](https://github.com/username2) | adityaghonge18@gmail.com |
+| Arhan Raut | Documentation | [@rautarhan21-star](https://github.com/username3) | arhanraut97@email.com |
