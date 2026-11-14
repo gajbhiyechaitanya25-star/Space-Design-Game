@@ -1,0 +1,8 @@
+{
+  "name": "Astrix  ",
+  "description": "A 3D NASA-grounded solar system flight and planetary exploration simulator featuring an X-37 orbital spaceplane, realistic astronaut EVA, rotating 3D asteroid fields, and authentic atmospheric entry, descent, and landing sequences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
