@@ -18,6 +18,7 @@ Astrix is a browser-based 3D simulator of the NASA solar system. Users fly an X-
 | Landing Sequence | Entry, descent and touchdown animation |
 
 ## System Architecture
+
 ```mermaid
 flowchart TB
     U["User (browser)"] --> UI["UI Layer: menus, HUD, controls"]
