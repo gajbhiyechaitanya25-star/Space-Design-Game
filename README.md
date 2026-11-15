@@ -46,12 +46,13 @@ flowchart TD
 
 | Layer | Technology |
 |-------|------------|
-| Frontend | HTML5, CSS3, JavaScript (ES6) |
+| UI | React 19, Tailwind CSS v4, lucide-react icons |
 | 3D Engine | Three.js (WebGL) |
-| Controls | Keyboard events (WASD) |
+| Language | JavaScript (ES modules, JSX compiled) |
+| Libraries loaded via | Import map from the esm.sh CDN |
+| Fonts | Google Fonts (Chakra Petch, JetBrains Mono, Plus Jakarta Sans) |
+| Storage | Browser localStorage |
 | Hosting | GitHub Pages |
-| Version Control | Git & GitHub |
-| Development Tools | VS Code, AI assistance (see Section 6) |
 
 ## Live demo and screenshots
 open this link - https://drive.google.com/drive/folders/1D5v-2Ut8-kUOUdq6DmMMszLSjbkIOjOn
