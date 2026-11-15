@@ -15,12 +15,14 @@ A realistic, browser-based space design and exploration game that makes spacecra
 ASTRIX is a browser-based 3D space design and exploration game. The whole game runs from a single HTML file, so there is no installation or backend.
 
 **Key Features:**
-- Realistic planets with detailed textures
-- 3D asteroid fields to navigate
-- X-37-style spaceship with WASD flight controls
-- NASA-inspired landing sequences
-- A realistic astronaut character
-- Runs on any modern browser, hosted on GitHub Pages
+- Pilot a Boeing/NASA X-37 spacecraft with flight controls, afterburner and RCS strafing
+- Explore the Sun, planets, major moons (Moon, Europa, Titan, Enceladus, Ganymede, Callisto and more) and Pluto
+- Seamless zoom from spacecraft → planets → solar system → Milky Way → galaxies
+- NASA-style Entry-Descent-Landing sequence, surface walking and re-boarding the ship
+- Customizable astronaut (real NASA astronaut presets, suits, visors, backpacks) and ship liveries
+- Missions, achievements, a Space Journal, planet scanning and a 360° planet inspector
+- A space knowledge quiz that appears every minute
+- Solar System Warp Map, rebindable keys and progress saved in the browser
 
 ### System Architecture Diagram
 
