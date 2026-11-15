@@ -56,3 +56,47 @@ flowchart TD
 
 ## Live demo and screenshots
 open this link - https://drive.google.com/drive/folders/1D5v-2Ut8-kUOUdq6DmMMszLSjbkIOjOn
+
+## 5. Installation & Setup Guide
+
+### Prerequisites
+- A modern browser with WebGL (Chrome, Edge, Firefox)
+- An internet connection, because React, Three.js and fonts load from CDNs
+- Git, plus Python 3 or VS Code Live Server (optional, for a local server)
+
+### Step 1: Clone
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
+```
+
+### Step 2: Dependencies
+There is nothing to install. The whole game is one file, `index.html`.
+
+### Step 3: Run locally
+```bash
+python -m http.server 8000
+```
+Open `http://localhost:8000`. You can also use VS Code's **Live Server** extension.
+
+### Controls
+
+| Key | Action |
+|-----|--------|
+| W / S | Thrust forward / reverse (walk on surface) |
+| A / D | Turn left / right |
+| Q / E | RCS strafe left / right |
+| R / F | Pitch nose up / down |
+| Shift | Afterburner / sprint |
+| Space | EVA jump / full brake |
+| V | Scan planet |
+| Enter | Start NASA landing |
+| B | Board the X-37 from the surface |
+| G | Open Solar System Warp Map |
+| Scroll or + / - | Zoom between scales |
+
+Keys can be rebound in the in-game customization menu.
+
+### Troubleshooting
+- **Black screen or stuck loading:** check your internet connection, because the libraries load from esm.sh.
+- **Low FPS:** close other tabs and enable hardware acceleration in your browser.
