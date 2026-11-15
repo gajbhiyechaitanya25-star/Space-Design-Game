@@ -100,3 +100,27 @@ Keys can be rebound in the in-game customization menu.
 ### Troubleshooting
 - **Black screen or stuck loading:** check your internet connection, because the libraries load from esm.sh.
 - **Low FPS:** close other tabs and enable hardware acceleration in your browser.
+
+## AI Usage Disclosure
+
+Artificial Intelligence tools were used during the development of the Space Design Game project to support development, problem-solving and documentation.
+
+AI Tools Used
+
+- Google AI Studio : Used for understanding programming concepts, assistance with JavaScript, debugging suggestions and improving project documentation.
+- AI-assisted development: Used for exploring ideas and improving the overall user interface and gameplay experience.
+
+Areas Where AI Was Used
+
+1. Code Assistance: AI was used to understand and improve JavaScript code.
+2. Debugging (CLAUDE): AI helped identify possible programming errors and suggest solutions.
+3. UI/UX Design: AI assisted with ideas for improving the visual appearance and user experience.
+4. Documentation: AI helped prepare and organize the README and installation instructions.
+
+Human Contribution
+
+The project team was responsible for reviewing the suggestions, making implementation decisions, integrating the code and testing the final application.
+
+Transparency Statement
+
+AI tools were used as supporting resources and not as a replacement for the team's development, understanding and testing efforts. All AI-assisted contributions were reviewed by the team.
