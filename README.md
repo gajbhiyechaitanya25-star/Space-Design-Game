@@ -50,3 +50,6 @@ flowchart TD
 | Hosting | GitHub Pages |
 | Version Control | Git & GitHub |
 | Development Tools | VS Code, AI assistance (see Section 6) |
+
+## Live demo and screenshots
+open this link - https://drive.google.com/drive/folders/1D5v-2Ut8-kUOUdq6DmMMszLSjbkIOjOn
