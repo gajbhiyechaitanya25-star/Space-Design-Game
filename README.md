@@ -67,7 +67,7 @@ open this link - https://drive.google.com/drive/folders/1D5v-2Ut8-kUOUdq6DmMMszL
 ### Step 1: Clone
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+cd space-design-game
 ```
 
 ### Step 2: Dependencies
