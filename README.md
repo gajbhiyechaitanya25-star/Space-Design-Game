@@ -6,6 +6,6 @@ A realistic, browser-based space design and exploration game that makes spacecra
 
 | # | Full Name | Home Institution | GitHub Username | Role |
 |---|-----------|------------------|-----------------|------|
-| 1 | Chaitanya Gajbhiye | Priyadarshini College | [gajbhiyechaitanya25-star] | team leader |
-| 2 | Aditya ghonge | Priyadarshini College | [@adityaghonge18-dot](https://github.com/adityaghonge18-dot) | Gameplay, Controls & Physics Engineer |
-| 3 | Arhan Raut | YCCE | [rautarhan21-star](https://github.com/rautarhan21-star) | UI/UX Designer & Documentation Lead |
+| 1 | Chaitanya Gajbhiye | Priyadarshini College | [gajbhiyechaitanya25-star](https://github.com/gajbhiyechaitanya25-star) | Team leader, Game designer, prompter |
+| 2 | Aditya ghonge | Priyadarshini College | [@adityaghonge18-dot](httls://github.com/adityaghonge18-dot) | backened |
+| 3 | Arhan Raut | YCCE | [rautarhan21-star](https://github.com/rautarhan21-star) | documentation |
