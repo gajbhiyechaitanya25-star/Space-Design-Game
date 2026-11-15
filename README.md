@@ -29,17 +29,17 @@ ASTRIX is a browser-based 3D space design and exploration game. The whole game r
 ```mermaid
 flowchart TD
     A[Player - Browser] --> B[index.html]
-    B --> C[Three.js Rendering Engine]
-    B --> D[Input Handler - WASD Controls]
-    D --> E[Game Logic & Physics]
-    E --> C
-    C --> F[3D Scene]
-    F --> G[Planets]
-    F --> H[Asteroids]
-    F --> I[X-37 Spaceship]
-    F --> J[Astronaut]
-    C --> K[WebGL Canvas Output]
-    K --> A
+    B --> C[React 19 UI Layer]
+    B --> D[Three.js 3D Engine]
+    C --> C1[HUD, Menus, Tutorial]
+    C --> C2[Missions, Quiz, Journal]
+    C --> C3[Avatar and Ship Customization]
+    D --> E[Scene: Planets, Moons, Galaxies]
+    D --> F[X-37 Spacecraft and Astronaut]
+    G[Keyboard / Joystick Input] --> H[Flight and Surface Physics]
+    H --> D
+    C2 --> I[(localStorage - saved progress)]
+    J[esm.sh CDN + Google Fonts] --> B
 ```
 
 ### Technology Stack
